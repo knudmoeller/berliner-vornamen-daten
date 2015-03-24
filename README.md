@@ -2,6 +2,7 @@
 
 RDF ([DataCube](http://www.w3.org/TR/vocab-data-cube)) representation of open data on the frequency of given names in Berlin, by year and by district (2012-2014).
 
+The conversion was done by Knud Möller, http://datalysator.com.
 
 ## Example Queries
 
