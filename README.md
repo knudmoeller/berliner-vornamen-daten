@@ -4,7 +4,9 @@ RDF ([DataCube](http://www.w3.org/TR/vocab-data-cube)) representation of open da
 
 The conversion was done by Knud Möller, http://datalysator.com.
 
-## Example Queries
+## Example Queries (SPARQL)
+
+To execute these queries, the data needs to be loaded into a triple store with SPARQL endpoint. [Apache Jena](https://jena.apache.org) provides useful tools for doing this adhoc on the command line.
 
 ### Frequencies for a given name and year, by district
 
