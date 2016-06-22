@@ -1,6 +1,6 @@
 # Description
 
-RDF ([DataCube](http://www.w3.org/TR/vocab-data-cube)) representation of open data on the frequency of given names in Berlin, by year and by district (2012-2014).
+RDF ([DataCube](http://www.w3.org/TR/vocab-data-cube)) representation of open data on the frequency of given names in Berlin, by year and by district (2012-2015).
 
 The conversion was done by Knud Möller, http://datalysator.com.
 
@@ -41,6 +41,8 @@ The RDF data is based on open data published by the [Berliner Landesamt für Bü
 - http://daten.berlin.de/datensaetze/liste-der-häufigen-vornamen-2012
 - http://daten.berlin.de/datensaetze/liste-der-häufigen-vornamen-2013
 - http://daten.berlin.de/datensaetze/liste-der-häufigen-vornamen-2014
+- http://daten.berlin.de/datensaetze/liste-der-häufigen-vornamen-2015
+
 
 ## License
 
